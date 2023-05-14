@@ -62,7 +62,7 @@ main .cartao-pokemon:hover {
     transition: 0.2s ease-in-out;
 }
 
-main .modo-escuro .cartao-pokemon {
+.modo-escuro .cartao-pokemon {
     background-color: #a8a8a8;
 }
 
